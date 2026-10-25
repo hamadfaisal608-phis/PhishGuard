@@ -1,0 +1,39 @@
+body {
+    background: #f1f4f2;
+    color: #212529;
+}
+
+.main-nav {
+    background: #1a5c3b;
+}
+
+.page {
+    padding-top: 30px;
+    padding-bottom: 40px;
+}
+
+.box {
+    border: 1px solid #d9dfdb;
+    border-radius: 6px;
+}
+
+.btn-green {
+    background: #1a5c3b;
+    border-color: #1a5c3b;
+    color: #fff;
+}
+
+.btn-green:hover {
+    background: #14472d;
+    border-color: #14472d;
+    color: #fff;
+}
+
+.result-success { border-left: 5px solid #198754; }
+.result-warning { border-left: 5px solid #ffc107; }
+.result-danger { border-left: 5px solid #b40f1c; }
+.result-secondary { border-left: 5px solid #6c757d; }
+
+.url-text {
+    word-break: break-all;
+}

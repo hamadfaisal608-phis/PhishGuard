@@ -1,0 +1,5 @@
+venv/
+_pycache_/
+*.pyc
+users.db
+.secret_key
